@@ -24,11 +24,13 @@ Edit tasks: users can edit the details of the tasks they have created.
 Delete tasks: users can delete tasks they have created.
 
 ## Technologies
-Python 3.7
-Django 3.2
-HTML/CSS
-Bootstrap 5
-Credits
+*Python 3.7
+*Django 3.2
+*HTML/CSS
+*Bootstrap 5
+*Credits
+<hr>
+
 This app is a walk-through project created by <a href="https://codeinstitute.net/">Code Institute</a>. If you have any questions or issues, feel free to contact me at enjonesnathaniel@gmail.com.
 
 License
