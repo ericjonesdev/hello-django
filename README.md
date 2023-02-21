@@ -29,7 +29,6 @@ Delete tasks: users can delete tasks they have created.
 *HTML/CSS
 *Bootstrap 5
 
-<hr>
 
 ## Credits
 This app is a walk-through project created by <a href="https://codeinstitute.net/">Code Institute</a>. If you have any questions or issues, feel free to contact me at enjonesnathaniel@gmail.com.
