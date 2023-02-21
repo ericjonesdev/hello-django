@@ -1,5 +1,5 @@
 # Todo List App
-This is a Todo list app created using the Django web framework. It allows users to create, update, and delete tasks they want to complete. Users can create accounts, login, and create/edit/delete their own tasks.
+This is a Todo list app created using the Django web framework. It allows users to create, update, and delete tasks they want to complete. Users can create/read/update/delete (CRUD) their own tasks.
 
 ## Getting Started
 To use this app, you can follow these steps:
@@ -24,10 +24,11 @@ Edit tasks: users can edit the details of the tasks they have created.
 Delete tasks: users can delete tasks they have created.
 
 ## Technologies
-*Python 3.8.11
-*Django 3.2.18
-*HTML/CSS
-*Bootstrap 5
+
+* Python 3.8.11
+* Django 3.2.18
+* HTML/CSS
+* Bootstrap 5
 
 
 ## Credits
