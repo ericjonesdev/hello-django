@@ -12,7 +12,7 @@ Run the database migrations by running python manage.py migrate.
 
 Start the development server by running python manage.py runserver.
 
-Visit http://localhost:8000/ in your browser to use the app.
+Visit https://hellodjango.herokuapp.com/ in your browser to use the app.
 
 ## Features
 User authentication: users can create accounts, login, and manage their own tasks.
